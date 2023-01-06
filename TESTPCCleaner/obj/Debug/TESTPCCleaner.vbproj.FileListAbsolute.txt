@@ -1,0 +1,11 @@
+C:\Users\MONSTERMC\source\repos\TESTPCCleaner\TESTPCCleaner\bin\Debug\TESTPCCleaner.exe.config
+C:\Users\MONSTERMC\source\repos\TESTPCCleaner\TESTPCCleaner\bin\Debug\TESTPCCleaner.exe
+C:\Users\MONSTERMC\source\repos\TESTPCCleaner\TESTPCCleaner\bin\Debug\TESTPCCleaner.pdb
+C:\Users\MONSTERMC\source\repos\TESTPCCleaner\TESTPCCleaner\bin\Debug\TESTPCCleaner.xml
+C:\Users\MONSTERMC\source\repos\TESTPCCleaner\TESTPCCleaner\obj\Debug\TESTPCCleaner.Form1.resources
+C:\Users\MONSTERMC\source\repos\TESTPCCleaner\TESTPCCleaner\obj\Debug\TESTPCCleaner.Resources.resources
+C:\Users\MONSTERMC\source\repos\TESTPCCleaner\TESTPCCleaner\obj\Debug\TESTPCCleaner.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\source\repos\TESTPCCleaner\TESTPCCleaner\obj\Debug\TESTPCCleaner.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\source\repos\TESTPCCleaner\TESTPCCleaner\obj\Debug\TESTPCCleaner.exe
+C:\Users\MONSTERMC\source\repos\TESTPCCleaner\TESTPCCleaner\obj\Debug\TESTPCCleaner.xml
+C:\Users\MONSTERMC\source\repos\TESTPCCleaner\TESTPCCleaner\obj\Debug\TESTPCCleaner.pdb
